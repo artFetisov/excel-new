@@ -52,6 +52,6 @@
     "gh-pages": "^4.0.0",
     "normalize.css": "^8.0.1",
     "ts-loader": "^9.4.2",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^4.11.1"
   }
 }
